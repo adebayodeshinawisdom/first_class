@@ -1,0 +1,7 @@
+.menu{background-color: orange; width:1000px; margin:auto; height: 50px}
+.content{background-color: blueviolet; width:750px; float:left; height:600px; margin-left: 168px}
+.side_bar{background-color: gold; width:250px; float:right; height:600px; margin-right: 165px}
+.footer{background-color: black; height:50px; width: 1000px; margin:auto;clear: both}
+li{list-style-type: none; display:inline; line-height: 50px; padding:10px}
+li a{text-decoration: none; color: black}
+li a:hover{color: white}
